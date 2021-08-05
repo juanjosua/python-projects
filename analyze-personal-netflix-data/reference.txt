@@ -1,0 +1,2 @@
+https://www.dataquest.io/blog/python-tutorial-analyze-personal-netflix-data/
+https://www.dataquest.io/blog/python-projects-for-beginners/
