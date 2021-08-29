@@ -1,0 +1,10 @@
+=== References & Notes ===
+
+speech recognition video - https://www.youtube.com/watch?v=K_WbsFrPUCk
+speech recognition to open url in browser - https://www.youtube.com/watch?v=sHeJgKBaiAI
+
+To install pyaudio on windows:
+1. install pipwin "pip install pipwin"
+2. intall pyaudio using pipwin "pipwin install pyaudio"
+
+ariel bot - ODgxNTc2NDYwMzcwOTg5MDU2.YSu2Dw.3CLDr_9BUYI_XZzRZzY44e5nza0
