@@ -7,4 +7,4 @@ To install pyaudio on windows:
 1. install pipwin "pip install pipwin"
 2. intall pyaudio using pipwin "pipwin install pyaudio"
 
-ariel bot - ODgxNTc2NDYwMzcwOTg5MDU2.YSu2Dw.3CLDr_9BUYI_XZzRZzY44e5nza0
+for dota 2 items - dotafire.com, dotabuff.com
