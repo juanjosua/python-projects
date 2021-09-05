@@ -8,3 +8,13 @@ To install pyaudio on windows:
 2. intall pyaudio using pipwin "pipwin install pyaudio"
 
 for dota 2 items - dotafire.com, dotabuff.com
+
+live speech recognizer pocketsphinx - https://github.com/cmusphinx/pocketsphinx-python
+
+to install pocketsphinx:
+# Make sure we have up-to-date versions of pip, setuptools and wheel
+python -m pip install --upgrade pip setuptools wheel
+# use pipwin if you use windows
+pipwin install pocketsphinx
+
+always listening example - https://github.com/nicholasjconn/python-always-listening/blob/master/always_listening.py

@@ -19,6 +19,7 @@ numpy==1.21.2
 packaging==21.0
 pandas==1.3.2
 pipwin==0.5.1
+pocketsphinx @ file:///C:/Users/Joe/pipwin/pocketsphinx-0.1.15-cp39-cp39-win_amd64.whl
 PyAudio @ file:///C:/Users/Joe/pipwin/PyAudio-0.2.11-cp39-cp39-win_amd64.whl
 pycodestyle==2.7.0
 pycparser==2.20
