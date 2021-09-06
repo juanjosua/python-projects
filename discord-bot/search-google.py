@@ -1,6 +1,5 @@
 import requests, bs4
 import pandas as pd
-from requests.api import head
 
 hero = 'slark'
 url = 'https://www.dotabuff.com/heroes/{}/items'.format(hero)
@@ -40,4 +39,4 @@ mp_lrgst = df['match_played'].nlargest(n)
 wr_lrgst = df['win_rate'].nlargest(n)
 
 top_10 = df.query('match_played in @mp_lrgst & win_rate in @wr_lrgst')
-print(top_10)
+print(', '.join(top_10["item_name"].values))
