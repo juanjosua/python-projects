@@ -18,3 +18,5 @@ python -m pip install --upgrade pip setuptools wheel
 pipwin install pocketsphinx
 
 always listening example - https://github.com/nicholasjconn/python-always-listening/blob/master/always_listening.py
+
+stream youtube audio on python - https://github.com/dashvinsingh/YoutubeAudio-Python-Stream/blob/master/youtube_stream.py
